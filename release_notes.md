@@ -1,6 +1,21 @@
 # Release notes
 All notable changes to the NSW Digital Design System Figma file will be documented in this file.
 
+## 5th March 2021
+- New component added - Content Cards
+- New component added - Content Blocks
+- New component added - Progress indicator
+- Highlight card component library path renamed from "Cards" to "Highlight card"
+- Highlight card component image updated to consistent placeholder image
+- Highlight card default desktop width increased by 1px to 368px to allow three column card layout with 32ps gutter to equal 1168px
+- Renamed highlight card "Headline only" to "Headline"
+- Renamed highlight card "All options" to "Label and date"
+- Renamed highlight card "With image" to "Image"
+- Renamed "Highlight" button to "Danger"
+- Renamed "Outline" button to "Secondary"
+- Aligned button constraints to top and left of frame 
+- Max container widths added to Grid sizing table
+
 ## 1st February 2021
 - Updated In-page navigation to separate section titles for prototyping
 - Updated Sign up form border colour to Light20 and linked Privacy in checkbox text
