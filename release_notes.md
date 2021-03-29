@@ -1,6 +1,12 @@
 # Release notes
 All notable changes to the NSW Digital Design System Figma file will be documented in this file.
 
+## 29th March 2021
+- Updated Hero banner
+- Previous Hero banner moved to archive 
+- New templates added - Homepage
+- New templates added - Basic content page
+
 ## 5th March 2021
 - New component added - Content Cards
 - New component added - Content Blocks
