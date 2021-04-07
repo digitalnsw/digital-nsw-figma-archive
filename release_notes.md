@@ -1,6 +1,9 @@
 # Release notes
 All notable changes to the NSW Digital Design System Figma file will be documented in this file.
 
+## 7th April 2021
+- New component added - Media caption without background
+
 ## 29th March 2021
 - Updated Hero banner
 - Previous Hero banner moved to archive 
