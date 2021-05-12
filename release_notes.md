@@ -1,6 +1,14 @@
 # Release notes
 All notable changes to the NSW Digital Design System Figma file will be documented in this file.
 
+## 13th May 2021
+- New component added: Media
+- “Media caption” component renamed to “Caption” and moved to under Media
+- New grid styles added: xl, lg, md, sm, xs breakpoints
+- New typography style added: Text link strong
+- Renamed "Emphasis" typography style to "Strong" to align with code 
+- Global alert updated to demonstrate linking text in description
+
 ## 7th April 2021
 - New component added - Media caption without background
 
