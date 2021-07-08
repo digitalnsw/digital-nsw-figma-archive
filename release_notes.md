@@ -1,6 +1,19 @@
 # Release notes
 All notable changes to the NSW Digital Design System Figma file will be documented in this file.
 
+## 7th July 2021
+- New component added: Input group button form field
+- New component added: Input group icon form field
+- New component added: Predictive search for input field
+- New component added: Expanding multiselect
+- New component added: List item
+- New component added: Filters
+- New component added: Mobile filter icon
+- New component added: Results bar
+- Search bar component reduced to 58px in height 
+- New templates added: Search results
+- New templates added: Filtering
+
 ## 13th May 2021
 - New component added: Media
 - “Media caption” component renamed to “Caption” and moved to under Media
