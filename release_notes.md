@@ -1,6 +1,100 @@
 # Release notes
 All notable changes to the NSW Digital Design System Figma file will be documented in this file.
 
+## 25th November 2021 - V3
+- New Templates - Maps
+- New Components - Map symbols, pop ups and controls 
+- Typography styles updated with Public Sans
+- Text links bolded in Content blocks, Filters, Tags and Hero search.
+- Update colour palette and colour theming:
+  - Primary Blue updated to Blue 01
+  - Primary Highlight updated to Red 02
+  - Secondary Blue updated to Blue 02
+  - Light 10 updated to Off-white
+  - Light 20 updated to Grey 04
+  - Light 40 updated to Grey 03
+  - Dark 60 updated to Grey 02
+  - Dark 70 updated to Grey 02
+  - Dark 80 updated to Grey 01
+- Core components defined -  including Masthead, Header, Footer, Buttons and Forms. 
+- All components updated with new typography and colour palette
+- All icons updated to material icons and sizing implemented to be in line with updated guidelines (see individual componemt for updates)
+- Accordion:
+  - Default and active states updated
+  - Chevron icon updated from 16px to 30px
+- Blockquote highlight bar updated from 6px to 2px
+- Breadcrumb chevron icon updated from 8px to 20px (reduced spacing between text and material icon)
+- Buttons:
+  - padding on all sides reduced by 2px
+  - Primary renamed Brand Dark
+  - Brand Dark outline text updated to Brand Dark
+  - Danger colour updated to Status Error Red #B81237
+  - Disabled state updated to 38% of active state
+  - Hover state updated to according dark or light overlay
+  - Variant Brand light, Brand light outline and with icon added
+- Callout:
+  - Icon removed
+  - Background colour removed
+  - Padding around content updated to 16px on all sides
+  - Highlight bar updated from 6px to 2px
+- Cards:
+  - Variants Brand Light and Brand Dark added
+  - Removed drop shadow
+  - Added outline on white variant
+  - Headline updated to text dark
+  - Hover state updated to full colour change
+  - Highlight bar updated from 6px to 4px
+  - Arrow icon updated from 24px to 30px
+- Filters:
+  - Mobile filters: 16px to 24px
+  - Mobile filters back: 16px to 24px (reduced spacing between text and material icon)
+- Footer:
+  - Tertiary link (viewport 0-767) 16px horizontal padding added between columns
+  - Secondary links (viewport 0-991) 16px horizontal padding added between columns and vertical padding decreased to 16px between rows
+  - Secondary link (viewport <991) 32px horizontal padding added between columns.
+- Forms:
+  - Dropdown form field chevron updated to Grey 01 
+  - Form field colour updated from Dark 70 to Grey 01
+  - Input group search icon updated from 24px to 36px
+  - Validation tick icon updated from 16px to 20px
+  - Validation info circle icon updated from 16px to 20px
+- Global alert Default variant updated to Information and close icons reduced in size. 
+- Header:
+  - Masthead padding top and bottom reduced to 8px
+  - New component added: Masterbrand Header
+  - New component added: Co-Brand Header (vertial staked) 
+  - New component added: Co-Brand Header (horizontal staked) 
+  - Mobile search icon updated from 16px to 24px
+  - Mobile menu icon updated from 16px to 24px
+  - Desktop header search icon updated from 24px to 36px
+  - Header text updated to Brand Dark
+- Hero banner:
+  - Variants Brand Light and Brand Dark added
+  - New and replaceable watermark (due to brand removing watermark from visual identity)
+  - Hero search highlight bar updated from 6px to 4px 
+  - Featured list highlight bar updated from 4px to 2px
+- In-page navigation highlight bar updated from 4px to 2px
+- In-page notification: 
+  - Name updated to In-page alerts
+  - Highlight bar updated from 6px to 4px
+  - Icon updated from 32px to 30px
+- Link list arrow icon updated from 16px to 20px
+- Main navigation:
+  - Mobile navigation chevron icon updated from 16px to 24px
+  - Mobile navigation back text updated to brand dark
+  - Mega navigation arrow icon updated from 16px to 24px
+  - Desktop main navigation chevron icon updated from 12px to 24px (reduced spacing between text and material icon)
+  - Top border line removed
+- Media caption variants Brand Light and Brand Dark added
+- Pagination:
+  - Direction links removed and replaced with chevrons
+  - Active page link updated to Text dark with Accent highlight bar
+  - Inactive page udpated to Brand dark to align with text link style
+  - Spacing reduced between items
+- Pictogram colour variants added
+- Tabs highlight bar updated from 4px to 2px
+- Tag colour updated from Secondary Blue to Blue 01
+
 ## 7th July 2021
 - New component added: Input group button form field
 - New component added: Input group icon form field
