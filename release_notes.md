@@ -1,6 +1,9 @@
 # Release notes
 All notable changes to the NSW Digital Design System Figma file will be documented in this file.
 
+## 29th November 2021
+- Callout highlight bar updated from 2px to 4px
+
 ## 25th November 2021 - V3
 - New Templates - Maps
 - New Components - Map symbols, pop ups and controls 
