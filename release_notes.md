@@ -1,6 +1,17 @@
 # Release notes
 All notable changes to the NSW Digital Design System Figma file will be documented in this file.
 
+## 17 December 2021
+- Header:
+  - updated with new NSW Government logo
+  - increased top and bottom padding to 20px to align with brand requirements
+  - updated spacing between NSW Government logo and descriptor/co-brand logo to 40px to align with brand requirements
+  - updated descriptor line height to 28px
+  - added new variant of co-brand header for rectangular co-brand logos
+
+## 14 December 2021
+- White keyline removed from NSW Government logo
+
 ## 29th November 2021
 - Callout highlight bar updated from 2px to 4px
 
