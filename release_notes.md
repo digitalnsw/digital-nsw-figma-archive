@@ -1,6 +1,16 @@
 # Release notes
 All notable changes to the NSW Digital Design System Figma file will be documented in this file.
 
+
+## 18 February 2022
+- New component - Hero banner variant added using line system
+- New component - Steps
+- New method - You are here
+- Hero banner featured list Brand Accent line changed to Brand Light
+- Drop shadow added as Figma style -  Floating drop shadow
+- Drop shadow on predictive list and main navigation mega nav components replaced with Floating drop shadow style (no visual change).
+- Updated Figma date component to Public Sans
+
 ## 17 December 2021
 - Header:
   - updated with new NSW Government logo
