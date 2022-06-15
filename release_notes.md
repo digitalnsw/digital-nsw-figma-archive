@@ -1,6 +1,12 @@
 # Release notes
 All notable changes to the NSW Digital Design System Figma file will be documented in this file.
 
+## 14 June 2022
+- New component - Dialog
+
+## 14 May 2022
+- New Usage & demo code component added to encourage users to view individual component guidance. 
+- Side navigation level 4 indentation increased to align with code. 
 
 ## 18 February 2022
 - New component - Hero banner variant added using line system
