@@ -1,6 +1,10 @@
 # Release notes
 All notable changes to the NSW Digital Design System Figma file will be documented in this file.
 
+## 1 July 2022
+- New component - Hero banner off-white variant added
+- New component - Footer brand dark, brand light, custom and social icon variants added
+
 ## 14 June 2022
 - New component - Dialog
 
