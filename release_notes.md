@@ -1,6 +1,19 @@
 # Release notes
 All notable changes to the NSW Digital Design System Figma file will be documented in this file.
 
+## 12 September 2022
+- New component - Status labels
+- New component - Select (multi)
+- New component - File upload
+- New component - Loader
+- New component - Filter variants added
+- Colour update - Status success green HEX updated from #00A908 to #008A07 for accessibility
+- Colour update - Status warning orange HEX updated from #DC5800 to #C95000 for accessibility
+- Colour update - Text hover colour updated to 10% of Brand Dark
+- Tag stroke updated to inside and increased height of container to enable alignment in Figma and match height of code component.  
+- Predictive list cell spacing updated to 12px top and bottom to align with code component
+- Highlight card height updated to hug to remove fixed setting bug
+
 ## 1 July 2022
 - New component - Hero banner off-white variant added
 - New component - Footer brand dark, brand light, custom and social icon variants added
