@@ -1,6 +1,13 @@
 # Release notes
 All notable changes to the NSW Digital Design System Figma file will be documented in this file.
 
+## 17 May 2023
+- Edit component - Filter: Replaced the back link with close icon for Batch Filter.
+- Edit component - Filter: Change the headings text from 'Filter results' to 'Filters'
+- New template  - Landing pages
+- Colour update - Changed all instances of Pink to Fuchsia
+- Logo usage and placement - Add space to bottom white strip in the header (make consistent with the top)
+
 ## 12 September 2022
 - New component - Status labels
 - New component - Select (multi)
