@@ -1,6 +1,9 @@
 # Release notes
 All notable changes to the NSW Digital Design System Figma file will be documented in this file.
 
+## 16 June 2023
+- New Component  - Tooltip
+
 ## 17 May 2023
 - Edit component - Filter: Replaced the back link with close icon for Batch Filter.
 - Edit component - Filter: Change the headings text from 'Filter results' to 'Filters'
