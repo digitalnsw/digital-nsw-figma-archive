@@ -1,6 +1,11 @@
 # Release notes
 All notable changes to the NSW Digital Design System Figma file will be documented in this file.
 
+## 8 August 2023
+- Edit text style: Changed the ‘Small link’ text style from ‘bold’ to ‘regular’ (see updates to components such as the breadcrumbs which utilize the text style).
+- Edit component - Buttons: Add Outlines (white) version.
+- Edit component - Tabs: Realignment of the non active items.
+
 ## 16 June 2023
 - New Component  - Tooltip
 
