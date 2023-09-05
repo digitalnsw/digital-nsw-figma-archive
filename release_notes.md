@@ -1,6 +1,35 @@
 # Release notes
 All notable changes to the NSW Digital Design System Figma file will be documented in this file.
 
+## 28 August 2023
+- Edit component: In-Page alert - Update content with a link.
+
+- Edit component: Hero banner -
+Remove ‘banner bg’ from all versions/ variants.
+Header (On mobile) -
+Changed font family to Public Sans for the ‘Menu’ text.
+Changed font size to 12px for the ‘Menu’ text.
+Changed font weight to bold for the ‘Menu’ text.
+
+- Edit component: Global alert - Added version without 'cta' button to match the DS doc site.
+
+## 22 August 2023
+- Edit text style: Change the 'Large screens (>992px)/Small link from bold to regular.
+- Edit component: File upload - For the grey box that appears after uploading a file:
+Replace the 'Remove file' text with the icon.
+Add 4px rounded cornners to the grey background.
+Increase the height of the grey box to 56px.(ask Lauren if we should also add this icon to the close button component).
+
+- Edit component: Content blocks - Removed hidden layers from the Master Component that are not being used.
+
+- Edit component: Main navigation -
+Created new variant 'State' with new value called 'active'.
+Moved existing 'hover' variant into newly created 'State' variant.
+
+## 10 August 2023
+- Edit component - Blockquote: Increase the padding space on desktop
+- Edit component - Callout: Removed the <h4> text style and manually added paragraph style 20/28.
+
 ## 8 August 2023
 - Edit text style: Changed the ‘Small link’ text style from ‘bold’ to ‘regular’ (see updates to components such as the breadcrumbs which utilize the text style).
 - Edit component - Buttons: Add Outlines (white) version.
