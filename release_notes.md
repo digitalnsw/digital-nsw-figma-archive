@@ -1,6 +1,21 @@
 # Release notes
 All notable changes to the NSW Digital Design System Figma file will be documented in this file.
 
+## 28 September 2023
+- Edit component: (Forms) Input group -
+  Changed text input color from Text/Dark to Greys/Grey 01.
+  Added ‘Search input’ variant to icon version of the search.
+
+## 13 September 2023
+- Edit component: Tabs - Change 'Label' to 'Heading'.
+- Edit component: Tables - Add variant for caption position.
+- Edit component: List items - Changed 'Mobile' variant name 'Viewport'.
+- Edit component: Progress Indicators - Fixed the sizing issue for 'Total' and 'Current steps' variants.
+- Edit component: Results bar - 
+    Changed 'Mobile' variant name 'Viewport'.
+    Changed mobile input label from v2 font family to v3 font family.
+    Fixed the center alignment of the input label.
+
 ## 28 August 2023
 - Edit component: In-Page alert - Update content with a link.
 
