@@ -1,6 +1,23 @@
 # Release notes
 All notable changes to the NSW Digital Design System Figma file will be documented in this file.
 
+## 20 November 2023
+- New component: Back to top
+
+## 10 November 2023
+- Filters
+Instant-Down:
+Changed heading for 'Down' state from 'Filter' to 'Filters' for collapsed.
+
+Batch-Down, Batch-Visible:
+Changed the 'Apply filters' button to go full width.
+
+Mobile control down:
+Add Brand/Dark background when expanded.
+
+## 31 October 2023
+- (Forms) Predictive list: Added text underline to result items
+
 ## 28 September 2023
 - Edit component: (Forms) Input group -
   Changed text input color from Text/Dark to Greys/Grey 01.
