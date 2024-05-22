@@ -1,6 +1,22 @@
 # Release notes
 All notable changes to the NSW Digital Design System Figma file will be documented in this file.
 
+## 5th March 2024
+- Date picker: Initial
+
+## 4th March 2024
+- Card carousel:
+Add additional indicators on mobile 
+Added to Component library page
+Add numbered pagination
+
+## 1st March 2024
+- New component: Card carousel (Initial) - Component library still to do
+- Card carousel:
+Add additional indicators on mobile 
+Added to Component library page
+Change variants from individual cards to the entire carousel - Component library still to do
+
 ## 20 November 2023
 - New component: Back to top
 
